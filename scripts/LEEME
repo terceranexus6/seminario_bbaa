@@ -1,0 +1,7 @@
+Para que el script funcione en terminal, tienes que darle permisos. Para ello
+utiliza :
+
+chmod u+x instalar_cosas.sh
+
+En la instalación, que presupongo en un sistema que use apt, que está en aquellos
+basados en Debian (como Ubuntu, por ejemplo).
