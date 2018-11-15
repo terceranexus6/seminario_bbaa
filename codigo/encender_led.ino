@@ -4,7 +4,7 @@
   Paula de la Hoz
 */
 
-const int led = 3; //si conectamos el led al pin 3
+const int led = 2; //si conectamos el led al pin 3
 
 //En setup va todo lo que queremos que se carge por defecto al encender la placa
 void setup()

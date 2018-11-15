@@ -13,7 +13,7 @@ Para que el circuito funcione correctamente debe estar cerrado, es decir que hay
 ![](https://raw.githubusercontent.com/terceranexus6/seminario_bbaa/master/images/cutre.png)
 ![](https://raw.githubusercontent.com/terceranexus6/seminario_bbaa/master/images/corriente.png)
 
-Una protoboard nos permite conectar nuestros componentes con cierto orden, pero hayq ue seguir una serie de normas.
+Una protoboard nos permite conectar nuestros componentes con cierto orden, pero hay que seguir una serie de normas.
 
 ![](http://www.clker.com/cliparts/x/z/X/s/N/Q/small-circuit-solderless-breadboard-hi.png)
 
@@ -22,3 +22,5 @@ Las filas de + y - son buses de potencia, y deberán conectarse con 5V y GND res
 Hagamos un ejemplo, conectemos un led al arduino. Para ello imitaremos este esquema:
 
 ![](https://evothings.com/doc/examples/images/arduino-led-tcp-sketch.png)
+
+Como podemos ver, el circuito se compone de un led, una resustencia y el arduino. El Led tiene dos patas, una más larga que la otra. La pata larga debe asociarse a + (5V) y la corta a tierra (GND). Para regular la corriente, usaremos una resistencia, cuando mayor sea la resistencia, menos intenso será el brillo. la patilla larga debe ir conectada a la resistencia y esta a su vez a la entrada de energía, en este caso al pin digital 2. Si queremos ver como parpadea, cargaremos el [programa](https://github.com/terceranexus6/seminario_bbaa/codigo/encender_led.ino) a la placa con ayuda del cable.
