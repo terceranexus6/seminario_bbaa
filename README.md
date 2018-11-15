@@ -39,6 +39,6 @@ Cosas extra que llevo para enseñar. Entre ellas...
 
 En el repositorio encontrarás todo el material que necesites. Por un lado está el código, paso por paso y comentado de lo que hagamos. También habrá otra carpeta con documentación, enlaces y contenido interesante, entre ellos una guía de cómo podéis participar en este mismo repositorio o crear vuestro propio contenido en github, y finalmente una carpeta para scripts de instalación en caso de que uséis Linux.
 
-* [Carpeta de código](https://github.com/terceranexus6/seminario_bbaa/codigo) - En esta carpeta encontrarás todo el contenido para comprender y cargar el código de arduino.
-* [Carpeta de documentación](https://github.com/terceranexus6/seminario_bbaa/documentacion) - En esta carpeta encontrarás la documentación, links y contenido teórico de interés para el seminario.
-* [Carpeta de scripts](https://github.com/terceranexus6/seminario_bbaa/scripts) - Esta es un extra, en caso de que te animes a usar Linux, con scripts de instalación de contenido interesante para arduino.
+* [Carpeta de código](https://github.com/terceranexus6/seminario_bbaa/tree/master/codigo) - En esta carpeta encontrarás todo el contenido para comprender y cargar el código de arduino.
+* [Carpeta de documentación](https://github.com/terceranexus6/seminario_bbaa/tree/master/documentacion) - En esta carpeta encontrarás la documentación, links y contenido teórico de interés para el seminario.
+* [Carpeta de scripts](https://github.com/terceranexus6/seminario_bbaa/tree/master/scripts) - Esta es un extra, en caso de que te animes a usar Linux, con scripts de instalación de contenido interesante para arduino.
