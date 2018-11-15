@@ -8,4 +8,7 @@ Nuestro arduino debe ser como este:
 
 En el encontramos pines analógicos y digitales numerados, que conectaremos a nuestros componentes a través de los cables. El botón rojo es de reseteo. A parte encontraremos también GND (tierra, 0 Voltios) y 5V.
 
-Para que el circuito funcione correctamente debe estar cerrado, es decir que haya una ruta desde la fuente de energía hasta la toma de tierra. Puedes imaginar la corriente como agua que cae por una cuesta, desde un Voltaje (n V) hasta tierra (0 V), en medio puede haber resistencia eléctrica para regular la electricidad dependiendo de los componentes, por ejemplo para un led. La corriente siempre buscará la ruta de menos resistencia para pasar, igual que el agua de un río. 
+Para que el circuito funcione correctamente debe estar cerrado, es decir que haya una ruta desde la fuente de energía hasta la toma de tierra. Puedes imaginar la corriente como agua que cae por una cuesta, desde un Voltaje (n V) hasta tierra (0 V), en medio puede haber resistencia eléctrica para regular la electricidad dependiendo de los componentes, por ejemplo para un led. La corriente siempre buscará la ruta de menos resistencia para pasar, igual que el agua de un río.
+
+![Fig 1](https://raw.githubusercontent.com/terceranexus6/seminario_bbaa/cutre.png)
+![Fig 2](https://raw.githubusercontent.com/terceranexus6/seminario_bbaa/corriente.png)
