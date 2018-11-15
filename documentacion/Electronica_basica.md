@@ -10,5 +10,5 @@ En el encontramos pines analógicos y digitales numerados, que conectaremos a nu
 
 Para que el circuito funcione correctamente debe estar cerrado, es decir que haya una ruta desde la fuente de energía hasta la toma de tierra. Puedes imaginar la corriente como agua que cae por una cuesta, desde un Voltaje (n V) hasta tierra (0 V), en medio puede haber resistencia eléctrica para regular la electricidad dependiendo de los componentes, por ejemplo para un led. La corriente siempre buscará la ruta de menos resistencia para pasar, igual que el agua de un río.
 
-![](https://github.com/terceranexus6/seminario_bbaa/images/cutre.png)
+![](https://raw.githubusercontent.com/terceranexus6/seminario_bbaa/master/images/cutre.png)
 ![](https://raw.githubusercontent.com/terceranexus6/seminario_bbaa/master/images/corriente.png)
