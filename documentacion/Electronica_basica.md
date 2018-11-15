@@ -24,3 +24,5 @@ Hagamos un ejemplo, conectemos un led al arduino. Para ello imitaremos este esqu
 ![](https://evothings.com/doc/examples/images/arduino-led-tcp-sketch.png)
 
 Como podemos ver, el circuito se compone de un led, una resustencia y el arduino. El Led tiene dos patas, una más larga que la otra. La pata larga debe asociarse a + (5V) y la corta a tierra (GND). Para regular la corriente, usaremos una resistencia, cuando mayor sea la resistencia, menos intenso será el brillo. la patilla larga debe ir conectada a la resistencia y esta a su vez a la entrada de energía, en este caso al pin digital 2. Si queremos ver como parpadea, cargaremos el [programa](https://github.com/terceranexus6/seminario_bbaa/codigo/encender_led.ino) a la placa con ayuda del cable.
+
+Si hemos comprendido todo esto, podemos pasar a la siguiente fase, [usar el sensor de luz]().
