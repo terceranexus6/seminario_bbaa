@@ -12,3 +12,13 @@ Para que el circuito funcione correctamente debe estar cerrado, es decir que hay
 
 ![](https://raw.githubusercontent.com/terceranexus6/seminario_bbaa/master/images/cutre.png)
 ![](https://raw.githubusercontent.com/terceranexus6/seminario_bbaa/master/images/corriente.png)
+
+Una protoboard nos permite conectar nuestros componentes con cierto orden, pero hayq ue seguir una serie de normas.
+
+![](http://www.clker.com/cliparts/x/z/X/s/N/Q/small-circuit-solderless-breadboard-hi.png)
+
+Las filas de + y - son buses de potencia, y deberán conectarse con 5V y GND respectivamente. Los cinco agujeros de cada línea horizontal de las columnas del centro, a su vez, están conectadas por bandas metálicas. La línea central rompe la conexión entre ambas columnas.
+
+Hagamos un ejemplo, conectemos un led al arduino. Para ello imitaremos este esquema:
+
+![](https://evothings.com/doc/examples/images/arduino-led-tcp-sketch.png)
