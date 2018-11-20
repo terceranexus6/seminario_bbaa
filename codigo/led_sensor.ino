@@ -21,7 +21,7 @@ void setup(void) {
 void loop(void) {
 
   //igualamos valor a la lectura del sensor
-  valor_s = analogRead(sensor);
+  valor = analogRead(sensor);
 
   if(valor < 200){
     digitalWrite(led, HIGH);
